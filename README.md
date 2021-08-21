@@ -1,4 +1,4 @@
-# 说明 elasticsearch-cdc 插件 支持将elasticsearch 的cdc 数据异步同步到kafka
+elasticsearch-cdc 插件支持将elasticsearch 的cdc 数据异步同步到kafka
 # elasticsearch-cdc 插件设计
 
 ![image](https://user-images.githubusercontent.com/18043146/130311896-6dfafd65-ab19-4727-9b90-750edbd7f350.png)
