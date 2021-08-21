@@ -6,7 +6,7 @@
 
     <groupId>com.wisers</groupId>
     <artifactId>elasticsearch-cdc</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <description>CDC plugin for Elasticsearch</description>
     <inceptionYear>2021</inceptionYear>
 
